@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="projeto Treine.me" src="treineme.png" width="100%">
+  <img alt="projeto Treine.me" src="treineme.jpg" width="100%">
 </p>
 
 <p align="center">
